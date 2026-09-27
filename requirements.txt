@@ -1,0 +1,10 @@
+# Validated with the svit conda environment
+# Install the torch/torchvision builds appropriate to your CUDA environment.
+torch==2.10.0
+torchvision==0.25.0
+transformers==5.3.0
+timm==1.0.11
+numpy
+Pillow
+scikit-learn
+tqdm

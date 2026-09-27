@@ -1,0 +1,1 @@
+This repository is the official implementation of CGSF-Net: Confidence-Guided Semantic Fusion Network for Shadow Removal Localization. It provides the source code for the CGSF-Net model as well as the corresponding evaluation code.
